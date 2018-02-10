@@ -1,4 +1,4 @@
-/*jshint esversion: 6 */
+
 const panels = document.querySelectorAll('.panel');
 
 function toggleOpen() {
